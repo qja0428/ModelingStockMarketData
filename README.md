@@ -1,6 +1,5 @@
 # ModelingStockMarketData
 
-### This project is from the book Pratical Data Science
 
 In this project, we will do the following steps:
 
